@@ -9,7 +9,7 @@ git status
 #O comando git add diz ao Git que você quer incluir atualizações a um arquivo específico no próximo commit. No entanto, git add não tem efeito real e significativo no repositório — as alterações não são gravadas mesmo até você executar git commit
 git add arquivo_01.txt
 git add arquivo_02.txt
-git add comados_git_utilizados.txt
+git add comandos_git_utilizados.txt
 
 #Verificar o status do repositório, o comando mostrou que os arquivos incluidos nas atualizações a partir do comando git add já estão presentes
 git status
