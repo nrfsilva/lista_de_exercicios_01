@@ -10,3 +10,15 @@ git status
 git add arquivo_01.txt
 git add arquivo_02.txt
 git add comados_git_utilizados.txt
+
+#Verificar o status do repositório, o comando mostrou que os arquivos incluidos nas atualizações a partir do comando git add já estão presentes
+git status
+
+#Com o git commit podemos confirmar e salvar todas as modificações realizadas até aqui na estrutura dos arquivos do nosso repositório
+git commit -m "Arquivo no formato texto"
+
+#Permite garantir que a nossa cópia local esteja realmente atualizada com a remota
+git pull
+
+#É utilizado para enviar o conteúdo do repositório local para um repositório remoto.
+git push
