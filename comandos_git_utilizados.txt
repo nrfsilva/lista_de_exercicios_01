@@ -3,7 +3,7 @@
 #Comando utilizado com o objetivo de clonar o repositório de interesse para a máquina local
 git clone https://github.com/nrfsilva/lista_de_exercicios_01
 
-#Verificação dos status do repositório no diretório local, com este comando foi observado as alterações que aconteram neste
+#Verificação dos status do repositório no diretório local, com este comando foi observado as alterações que aconteceram neste
 git status
 
 #O comando git add diz ao Git que você quer incluir atualizações a um arquivo específico no próximo commit. No entanto, git add não tem efeito real e significativo no repositório — as alterações não são gravadas mesmo até você executar git commit
